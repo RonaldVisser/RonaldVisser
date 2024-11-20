@@ -10,4 +10,4 @@ My research can be found on:
 - [Academia](https://saxion.academia.edu/RonaldVisser)
 - [Google Scholar](https://scholar.google.com/citations?user=c-ScfE8AAAAJ)
 
-You can follow me on <a rel="me" href="https://akademienl.social/@RonaldVisser">Mastodon</a> or  [Twitter](https://twitter.com/RonaldMVisser).
+You can follow me on <a rel="me" href="https://akademienl.social/@RonaldVisser">Mastodon</a> or [BlueSky](https://bsky.app/profile/ronaldvisser.bsky.social).
