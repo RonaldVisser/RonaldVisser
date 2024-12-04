@@ -9,5 +9,6 @@ My research can be found on:
 - [ResearchGate](https://www.researchgate.net/profile/Ronald-Visser-5)
 - [Academia](https://saxion.academia.edu/RonaldVisser)
 - [Google Scholar](https://scholar.google.com/citations?user=c-ScfE8AAAAJ)
+- [Scholia (based on Wikidata)](https://scholia.toolforge.org/author/Q58529575)
 
 You can follow me on <a rel="me" href="https://akademienl.social/@RonaldVisser">Mastodon</a> or [BlueSky](https://bsky.app/profile/ronaldvisser.bsky.social).
