@@ -11,6 +11,6 @@ My research can be found on:
 - [Google Scholar](https://scholar.google.com/citations?user=c-ScfE8AAAAJ)
 - [Scholia (based on Wikidata)](https://scholia.toolforge.org/author/Q58529575)
 
-You can follow me on <a rel="me" href="https://akademienl.social/@RonaldVisser">Mastodon</a> or [BlueSky](https://bsky.app/profile/ronaldvisser.bsky.social).
+You can follow me on <a rel="me" href="https://social.edu.nl/@RonaldVisser">Mastodon</a> or [BlueSky](https://bsky.app/profile/ronaldvisser.bsky.social).
 
 I am also a recommender for [PCI Archaeology](https://archaeo.peercommunityin.org/public/user_public_page?userId=721).
